@@ -50,9 +50,9 @@ conda install -c conda-forge ffmpeg
 + CartPoleを使用する場合
 ```
 env = gym.make('CartPole-v0')
-'''
+```
 上記の記述を以下のように書き換える
-'''
+```
 env = gym.make('CartPole-v1')
 ```
 
