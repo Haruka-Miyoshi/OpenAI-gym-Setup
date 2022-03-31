@@ -23,9 +23,9 @@ pip install JSAnimation
 pip uninstall pyglet -y
 ```
 "pyglet"パッケージのバージョン1.5.11をインストールする.
-'''
+```
 pip install pyglet==1.5.11
-'''
+```
 "pygame"をインストールする.
 ```
 pip install pygame
